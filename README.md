@@ -4,42 +4,45 @@
 
 # 🧬 DeCodeX : Sanger
 
-Interactive molecular biology simulator for DNA sequencing, genetic analysis, and electrophoresis.
+### *Interactive DNA Sequencing & Genetic Analysis Simulator*
+
+> An interactive molecular biology simulator for exploring Sanger sequencing, DNA profiling, VNTR analysis, and electrophoresis.
+
+**🧬 DNA Sequencing · 🧪 Genetic Analysis · ⚡ Electrophoresis**
 
 ---
 
-## ✨ Features
+## ✦ Features
 
-* **Sanger Sequencing:** Visualize chain termination, capillary electrophoresis, and DNA readout.
-* **Parent–Child DNA Analysis:** Compare DNA profiles through interactive sequence matching.
-* **VNTR:** Add and visualize Variable tandem repeats.
-* **Gel Electrophoresis:** Simulate DNA fragment separation based on molecular size.
+**🧬 Sanger Sequencing**  
+Visualize chain termination, capillary electrophoresis, and DNA sequence readout.
 
----
+**👨‍👩‍👧 Parent–Child DNA Analysis**  
+Compare DNA profiles through interactive sequence matching.
 
-## 🚀 Built With & Hosted On
+**🔬 VNTR Analysis**  
+Add and visualize Variable Number Tandem Repeats.
 
-* **Repository:** GitHub
-* **Hosting:** Vercel
-
----
-
-## 🛠️ Credits & Acknowledgments
-
-* **Claude Sonnet:** Debugging, code generation & architecture.
-* **Replit:** Code improvisation & rapid prototyping.
-* **OpenAI:** Scientific debugging, testing & logic optimization.
+**⚡ Gel Electrophoresis**  
+Simulate DNA fragment separation based on molecular size.
 
 ---
 
-## 👤 Author
+## 🧬 Core Concepts
 
-* **Draven Ashcroft**
-  * M.Sc. Ag. Entomology, ASRB NET
-  * DIPS Chain of Institutions
+**Sanger Sequencing · Chain Termination · DNA Profiling · VNTR · Gel Electrophoresis · Capillary Electrophoresis**
+
+---
+
+## ⚙️ Technology
+
+**HTML · CSS · JavaScript**
+
+**Source:** GitHub  
+**Hosting:** Vercel
 
 ---
 
 ## 📜 License
 
-GPL-3.0
+**GNU General Public License v3.0 (GPL-3.0)**
