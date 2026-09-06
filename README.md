@@ -8,7 +8,7 @@
 
 > **DeCodeX : Sanger** is an interactive visualization exploring **Sanger sequencing**, DNA profiling, VNTR analysis, and electrophoresis.
 >
-🧬 **DNA Sequencing** · 🧪 **Gene Analysis**  ⚡ **Electrophoresis**
+🧬 **DNA Sequencing** · 🧪 ** DNA Analysis**  ⚡ **Electrophoresis**
 
 **🔬 [Explore the Simulation](https://decodex-sanger.dray-ashcroft.workers.dev/)**
 
