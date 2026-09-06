@@ -10,7 +10,7 @@
 >
 > 🧬 **DNA Sequencing** · 🧪 **Genetic Analysis** · ⚡ **Electrophoresis**
 
-**🔬 [Explore the Simulation](YOUR-LINK-HERE)**
+**🔬 [Explore the Simulation](https://decodex-sanger.dray-ashcroft.workers.dev/)**
 
 ---
 
