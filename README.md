@@ -38,11 +38,11 @@ Simulate DNA fragment separation based on molecular size.
 
 **HTML · CSS · JavaScript**
 
-**Source:** GitHub  
-**Hosting:** Vercel
+**Repository:** GitHub & Codeberg  
+**Hosting:** Cloudflare
 
 ---
 
 ## 📜 License
 
-**GNU General Public License v3.0 (GPL-3.0)**
+Distributed under the **GNU General Public License v3.0 (GPL-3.0)**.
