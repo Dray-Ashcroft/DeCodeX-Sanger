@@ -1,14 +1,16 @@
 <p align="center">
-  <img src="assets/banner.png" alt="DeCodeX : Sanger Banner" width="100%">
+  <img src="assets/banner.png" alt="DeCodeX : Sanger — Interactive DNA Sequencing & Genetic Analysis Simulator" width="100%">
 </p>
 
 # 🧬 DeCodeX : Sanger
 
 ### *Interactive DNA Sequencing & Genetic Analysis Simulator*
 
-> An interactive molecular biology simulator for exploring Sanger sequencing, DNA profiling, VNTR analysis, and electrophoresis.
+> **DeCodeX : Sanger** is an interactive visualization exploring **Sanger sequencing**, DNA profiling, VNTR analysis, and electrophoresis.
+>
+> 🧬 **DNA Sequencing** · 🧪 **Genetic Analysis** · ⚡ **Electrophoresis**
 
-**🧬 DNA Sequencing · 🧪 Genetic Analysis · ⚡ Electrophoresis**
+**🔬 [Explore the Simulation](YOUR-LINK-HERE)**
 
 ---
 
